@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run B1913240_TranAnhKhoa_app.py
