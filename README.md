@@ -1,13 +1,13 @@
 ## Exercise to build an application to classify iris flowers.
 ## Requirements:
 - You need install some library:
-'''bash
+```bash
   pip install streamlit
   pip install numpy
   pip install scikitlearn
   pip install pandas
-'''
-- Current version:
+```
+### Current version:
 + streamlit==0.88.0
 + pandas==1.2.3
 + numpy==1.19.5
