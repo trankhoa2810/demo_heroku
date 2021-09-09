@@ -4,7 +4,7 @@
 ```bash
   pip install streamlit
   pip install numpy
-  pip install scikitlearn
+  pip install scikit-learn
   pip install pandas
 ```
 - Current version:
